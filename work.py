@@ -5,3 +5,4 @@ print("Thanks my dear God.")
 a="Sina"
 print(f'''Hello {a}
 Welcome to the global.''')
+print(f"Hi {a}, we edited this file.")
