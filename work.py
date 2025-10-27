@@ -7,3 +7,4 @@ print(f'''Hello {a}
 Welcome to the global.''')
 print(f"Hi {a}, we edited this file.")
 print("This line is wrote by sina-branch owner")
+print("Also this line is wrote by sina-branch owner as well.")
